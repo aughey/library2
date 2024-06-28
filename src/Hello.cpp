@@ -10,5 +10,5 @@ void Hello::SayHello()
 
 std::string Hello::HelloString()
 {
-    return "library1: Hello, World!";
+    return "library2: Hello, World!";
 }
