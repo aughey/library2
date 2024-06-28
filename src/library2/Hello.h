@@ -2,7 +2,7 @@
 
 #include <string>
 
-namespace library1
+namespace library2
 {
     class Hello
     {

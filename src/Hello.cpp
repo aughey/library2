@@ -1,7 +1,7 @@
-#include "library1/Hello.h"
+#include "library2/Hello.h"
 #include <iostream>
 
-using namespace library1;
+using namespace library2;
 
 void Hello::SayHello()
 {
